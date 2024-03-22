@@ -1,0 +1,18 @@
+.contenedor11{
+  display: flex;
+  gap: 300%;
+}
+
+#botones{
+  display: flex;
+  justify-content: center;
+  gap: 2%;
+}
+
+body{
+  background-color: rgb(231, 227, 227) !important;
+}
+
+#cuadro{
+  width: 480px;
+}
